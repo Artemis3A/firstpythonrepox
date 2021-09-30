@@ -1,3 +1,4 @@
+#A piece of code to give even and odd numbers between a range of numbers
 lower_limit = int(input('Enter lower limit: '))
 upper_limit = int(input('Enter upper limit: '))
 
